@@ -20,7 +20,7 @@ The algorithm processes the video in the following steps:
 4. **Line Detection**: Use Hough Line Transform to detect straight lines that represent lanes.
 5. **Lane Overlay**: Finally, overlay the detected lanes on the original image.
 
-Here’s a visualization of the algorithm in action:
+## Visualization of how the Algorithm works
 
 ![Lane Detection Example](https://github.com/ahmaddaoud2003/Simple-Lane-Detection-Algorithm/assets/145913339/2ea1eeb7-6ac4-4f13-b90a-a3dab2fc0e41)
 
