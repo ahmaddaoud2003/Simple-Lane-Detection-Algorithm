@@ -25,5 +25,5 @@ The algorithm processes the video in the following steps:
 ![Lane Detection Example](https://github.com/ahmaddaoud2003/Simple-Lane-Detection-Algorithm/assets/145913339/2ea1eeb7-6ac4-4f13-b90a-a3dab2fc0e41)
 
 
-The video used in the code was obtained from Kagg;e:
+The video used in the code was obtained from Kaggle:
 [Lane Detection Video Dataset](https://www.kaggle.com/datasets/dpamgautam/video-file-for-lane-detection-project)
